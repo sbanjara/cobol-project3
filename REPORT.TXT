@@ -1,0 +1,560 @@
+                               GLENCOE CANDY, LTD                               
+       01/11/2019               INVENTORY REPORT         PAGE: 01               
+
+  WAREHOUSE: CH20                                                               
+
+     VENDOR: ATOMIC SWEETS                                                      
+
+      CANDY: C01                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCream    LARGE          SF       027       $1,619.73               
+                      MEDIUM         SF       035       $2,099.65               
+                      SMALL          SF       012         $719.88               
+                                              000            $.00               
+                                              000            $.00               
+
+                   TOTAL CANDY: DarkChocCream           $4,439.26               
+
+
+      CANDY: C02                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCaramel  LARGE          SF       023       $1,379.77               
+                      MEDIUM         SF       013         $779.87               
+                      SMALL          SF       000            $.00               
+                      GIFT           SF       009         $629.91               
+                      SAMPLE         SF       020         $599.80               
+
+                   TOTAL CANDY: DarkChocCaramel         $3,389.35               
+
+
+      CANDY: C06                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     MilkChocCream    MEDIUM         SU       045       $2,249.55               
+                      MEDIUM         SU       015         $749.85               
+                      SMALL          SU       076       $2,279.24               
+                      GIFT           SU       005         $149.95               
+                      SAMPLE         SU       097       $2,909.03               
+
+                   TOTAL CANDY: MilkChocCream           $8,337.62               
+
+              TOTAL FOR VENDOR: ATOMIC SWEETS          $16,166.23               
+
+
+     VENDOR: BOOZIE SWEETS                                                      
+
+      CANDY: C01                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCream    LARGE          SF       120       $2,398.80               
+                      MEDIUM         SF       085       $1,699.15               
+                      SMALL          SF       015            $.00               
+                      GIFT           SF       001          $29.99               
+                                              000            $.00               
+
+                   TOTAL CANDY: DarkChocCream           $4,127.94               
+
+
+      CANDY: C02                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCaramel  LARGE          SF       124       $2,478.76               
+                      MEDIUM         SF       118       $2,358.82               
+                      SMALL          SF       010         $199.90               
+                      GIFT           SF       019         $569.81               
+                      SAMPLE         SF       124       $1,238.76               
+
+                   TOTAL CANDY: DarkChocCaramel         $6,846.05               
+
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb      LARGE          SU       012         $311.88               
+                      MEDIUM         SU       008         $207.92               
+                      SMALL          SU       090       $1,439.10               
+                      GIFT           SU       075       $1,199.25               
+                      SAMPLE         SU       019         $303.81               
+
+                   TOTAL CANDY: WhiskeyBomb             $3,461.96               
+
+              TOTAL FOR VENDOR: BOOZIE SWEETS          $14,435.95               
+
+
+     VENDOR: NELLIES SWEET SHOP                                                 
+
+      CANDY: C05                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkRumBite      LARGE          SU       045       $1,619.55               
+                      MEDIUM         SU       000            $.00               
+                      SMALL          SU       009         $413.91               
+                      GIFT           SU       100       $2,599.00               
+                      SAMPLE         SU       200       $5,198.00               
+
+                   TOTAL CANDY: DarkRumBite             $9,830.46               
+
+              TOTAL FOR VENDOR: NELLIES SWEET SHOP      $9,830.46               
+
+
+     VENDOR: TIGER TREATS                                                       
+
+      CANDY: C02                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCaramel  LARGE          SF       016       $1,919.84               
+                      MEDIUM         SF       017       $2,039.83               
+                      SMALL          SF       006         $719.94               
+                      GIFT           SF       003         $389.97               
+                      SAMPLE         SF       010       $1,099.90               
+
+                   TOTAL CANDY: DarkChocCaramel         $6,169.48               
+
+              TOTAL FOR VENDOR: TIGER TREATS            $6,169.48               
+
+            TOTAL FOR WAREHOUSE: CH20                   $46,602.12                                             GLENCOE CANDY, LTD                               
+       01/11/2019               INVENTORY REPORT         PAGE: 02               
+
+  WAREHOUSE: DN30                                                               
+
+     VENDOR: BOOZIE SWEETS                                                      
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb                              000            $.00               
+                                              000            $.00               
+                                              000            $.00               
+                                              000            $.00               
+                                              000            $.00               
+
+                   TOTAL CANDY: WhiskeyBomb                  $.00               
+
+
+      CANDY: C05                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkRumBite      LARGE          SU       005         $679.95               
+                      MEDIUM         SU       001         $134.99               
+                      SMALL          SU       009       $1,313.91               
+                      GIFT           SU       001         $125.99               
+                      SAMPLE         SU       002         $251.98               
+
+                   TOTAL CANDY: DarkRumBite             $2,506.82               
+
+
+      CANDY: C07                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiteRussian     LARGE          SU       020       $2,119.80               
+                      MEDIUM         SU       003         $317.97               
+                      BAD-T          SU       002         $211.98               
+                      BAD-I          SU       000            $.00               
+                      SAMPLE         SU       001          $95.99               
+
+                   TOTAL CANDY: WhiteRussian            $2,745.74               
+
+              TOTAL FOR VENDOR: BOOZIE SWEETS           $5,252.56               
+
+
+     VENDOR: NELLIES SWEET SHOP                                                 
+
+      CANDY: C10                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChoOrange    LARGE          SF       090      $18,089.10               
+                      MEDIUM         SF       085      $17,084.15               
+                      SMALL          SF       001         $200.99               
+                      GIFT           SF       004       $1,003.96               
+                      SAMPLE         SF       001         $195.99               
+
+                   TOTAL CANDY: DarkChoOrange          $36,574.19               
+
+              TOTAL FOR VENDOR: NELLIES SWEET SHOP     $36,574.19               
+
+            TOTAL FOR WAREHOUSE: DN30                   $41,826.75                                             GLENCOE CANDY, LTD                               
+       01/11/2019               INVENTORY REPORT         PAGE: 03               
+
+  WAREHOUSE: LA40                                                               
+
+     VENDOR: ATOMIC SWEETS                                                      
+
+      CANDY: C02                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCaramel  LARGE          SF       023       $1,379.77               
+                      MEDIUM         SF       013         $779.87               
+                      SMALL          SF       000            $.00               
+                      GIFT           SF       009         $629.91               
+                      SAMPLE         SF       020         $599.80               
+
+                   TOTAL CANDY: DarkChocCaramel         $3,389.35               
+
+
+      CANDY: C04                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     CoffeeCream      LARGE          SF       001          $25.99               
+                      BAD-U          SF       010         $259.90               
+                      SMALL          SF       003            $.00               
+                      GIFT           SF       000            $.00               
+                      SAMPLE         SF       002          $31.98               
+
+                   TOTAL CANDY: CoffeeCream               $317.87               
+
+              TOTAL FOR VENDOR: ATOMIC SWEETS           $3,707.22               
+
+
+     VENDOR: BOOZIE SWEETS                                                      
+
+      CANDY: C08                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     CoconutBite      LARGE          SU       000            $.00               
+                      MEDIUM         SU       002          $35.98               
+                      SMALL          SU       001          $27.99               
+                      GIFT           SU       035         $279.65               
+                      SAMPLE         SU       003          $23.97               
+
+                   TOTAL CANDY: CoconutBite               $367.59               
+
+
+      CANDY: C09                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WineDrops        LARGE          SU       015         $194.85               
+                      MEDIUM         SU       020         $259.80               
+                      SMALL          SU       000            $.00               
+                      BAD-O          SU       000            $.00               
+                      SAMPLE         SU       001           $8.99               
+
+                   TOTAL CANDY: WineDrops                 $463.64               
+
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb      LARGE          SU       019         $493.81               
+                      MEDIUM         SU       003          $77.97               
+                      SMALL          SU       040         $639.60               
+                      GIFT           SU       035         $559.65               
+                      SAMPLE         SU       090       $1,439.10               
+
+                   TOTAL CANDY: WhiskeyBomb             $3,210.13               
+
+              TOTAL FOR VENDOR: BOOZIE SWEETS           $4,041.36               
+
+
+     VENDOR: NELLIES SWEET SHOP                                                 
+
+      CANDY: C04                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     CoffeeCream      LARGE          SU       021       $1,175.79               
+                      MEDIUM         SU       008         $447.92               
+                      SMALL          SU       002         $131.98               
+                      GIFT           SU       001          $35.99               
+                      SAMPLE         SU       012         $431.88               
+
+                   TOTAL CANDY: CoffeeCream             $2,223.56               
+
+
+      CANDY: C05                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkRumBite      LARGE          SU       035            $.00               
+                      MEDIUM         SU       001          $35.99               
+                      SMALL          SU       003         $137.97               
+                      GIFT           SU       000            $.00               
+                      SAMPLE         SU       100       $2,599.00               
+
+                   TOTAL CANDY: DarkRumBite             $2,772.96               
+
+
+      CANDY: C01                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCream    LARGE          SF       024       $3,839.76               
+                      MEDIUM         SF       033       $5,279.67               
+                      SMALL          SF       013       $2,079.87               
+                      GIFT           SF       012       $2,039.88               
+                      SAMPLE         SF       027       $3,509.73               
+
+                   TOTAL CANDY: DarkChocCream          $16,748.91               
+
+              TOTAL FOR VENDOR: NELLIES SWEET SHOP     $21,745.43               
+
+
+     VENDOR: TIGER TREATS                                                       
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb      LARGE          SU       003         $377.97               
+                      MEDIUM         SU       014       $1,763.86               
+                                              000            $.00               
+                                              000            $.00               
+                                              000            $.00               
+
+                   TOTAL CANDY: WhiskeyBomb             $2,141.83               
+
+
+      CANDY: C07                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiteRussian     LARGE          SU       020       $2,119.80               
+                      MEDIUM         SU       003         $317.97               
+                      BAD-T          SU       002         $211.98               
+                      GIFT           SU       000            $.00               
+                      SAMPLE         SU       001          $95.99               
+
+                   TOTAL CANDY: WhiteRussian            $2,745.74               
+
+
+      CANDY: C09                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WineDrops        LARGE          SU       025       $2,824.75               
+                      MEDIUM         SU       020       $2,259.80               
+                      SMALL          SU       030       $3,689.70               
+                      GIFT           SU       001         $108.99               
+                      SAMPLE         SU       001         $108.99               
+
+                   TOTAL CANDY: WineDrops               $8,992.23               
+
+              TOTAL FOR VENDOR: TIGER TREATS           $13,879.80               
+
+
+     VENDOR: INVALID-U                                                          
+
+      CANDY: C10                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChoOrange    LARGE          SU       010       $2,009.90               
+                      MEDIUM         SU       000            $.00               
+                      SMALL          SU       002         $401.98               
+                      BAD-P          SU       003         $752.97               
+                      SAMPLE         SU       002         $391.98               
+
+                   TOTAL CANDY: DarkChoOrange           $3,556.83               
+
+              TOTAL FOR VENDOR: INVALID-U               $3,556.83               
+
+            TOTAL FOR WAREHOUSE: LA40                   $46,930.64                                             GLENCOE CANDY, LTD                               
+       01/11/2019               INVENTORY REPORT         PAGE: 04               
+
+  WAREHOUSE: MN50                                                               
+
+     VENDOR: ATOMIC SWEETS                                                      
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb      LARGE          SU       010         $259.90               
+                      MEDIUM         SU       005         $129.95               
+                      SMALL          SU       060         $959.40               
+                      GIFT           SU       035         $559.65               
+                      SAMPLE         SU       012         $191.88               
+
+                   TOTAL CANDY: WhiskeyBomb             $2,100.78               
+
+
+      CANDY: C05                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkRumBite      LARGE          SU       005         $179.95               
+                      BAD-I          SU       002          $71.98               
+                      SMALL          SU       002          $91.98               
+                      GIFT           SU       000            $.00               
+                      SAMPLE         SU       000            $.00               
+
+                   TOTAL CANDY: DarkRumBite               $343.91               
+
+
+      CANDY: C06                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     MilkChocCream    LARGE          SU       025       $1,249.75               
+                      MEDIUM         SU       035       $1,749.65               
+                      SMALL          SU       026         $779.74               
+                      GIFT           SU       045       $1,349.55               
+                      SAMPLE         SU       067       $2,009.33               
+
+                   TOTAL CANDY: MilkChocCream           $7,138.02               
+
+              TOTAL FOR VENDOR: ATOMIC SWEETS           $9,582.71               
+
+
+     VENDOR: BOOZIE SWEETS                                                      
+
+      CANDY: C07                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiteRussian     LARGE          SU       021         $755.79               
+                      MEDIUM         SU       043       $1,547.57               
+                      SMALL          SU       002          $71.98               
+                      GIFT           SU       003          $77.97               
+                      SAMPLE         SU       001          $25.99               
+
+                   TOTAL CANDY: WhiteRussian            $2,479.30               
+
+
+      CANDY: C03                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WhiskeyBomb      LARGE          SU       009         $413.91               
+                      MEDIUM         SU       023       $1,057.77               
+                      SMALL          SU       043       $1,547.57               
+                      GIFT           SU       035       $1,259.65               
+                      SAMPLE         SU       091       $3,275.09               
+
+                   TOTAL CANDY: WhiskeyBomb             $7,553.99               
+
+
+      CANDY: C05                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkRumBite      LARGE          SU       015         $539.85               
+                      MEDIUM         SU       011         $395.89               
+                      SMALL          SU       013         $597.87               
+                      GIFT           SU       001          $25.99               
+                      SAMPLE         SU       110       $2,858.90               
+
+                   TOTAL CANDY: DarkRumBite             $4,418.50               
+
+              TOTAL FOR VENDOR: BOOZIE SWEETS          $14,451.79               
+
+
+     VENDOR: NELLIES SWEET SHOP                                                 
+
+      CANDY: C08                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     CoconutBite      LARGE          SU       001          $27.99               
+                      MEDIUM         SU       001          $27.99               
+                      SMALL          SU       002          $75.98               
+                      GIFT           SU       032         $575.68               
+                      SAMPLE         SU       004          $71.96               
+
+                   TOTAL CANDY: CoconutBite               $779.60               
+
+              TOTAL FOR VENDOR: NELLIES SWEET SHOP        $779.60               
+
+            TOTAL FOR WAREHOUSE: MN50                   $24,814.10                                             GLENCOE CANDY, LTD                               
+       01/11/2019               INVENTORY REPORT         PAGE: 05               
+
+  WAREHOUSE: NY60                                                               
+
+     VENDOR: NELLIES SWEET SHOP                                                 
+
+      CANDY: C01                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChocCream    LARGE          SF       025       $3,999.75               
+                      MEDIUM         SF       003         $479.97               
+                      SMALL          SF       010       $1,599.90               
+                      GIFT           SF       010       $1,699.90               
+                      SAMPLE         SF       020       $2,599.80               
+
+                   TOTAL CANDY: DarkChocCream          $10,379.32               
+
+
+      CANDY: C04                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     CoffeeCream      LARGE          SU       003         $377.97               
+                      MEDIUM         SU       011       $1,385.89               
+                      SMALL          SU       002         $271.98               
+                      GIFT           SU       001         $115.99               
+                      SAMPLE         SU       012       $1,391.88               
+
+                   TOTAL CANDY: CoffeeCream             $3,543.71               
+
+              TOTAL FOR VENDOR: NELLIES SWEET SHOP     $13,923.03               
+
+
+     VENDOR: INVALID-Q                                                          
+
+      CANDY: C06                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     MilkChocCream    LARGE          SU       045       $6,749.55               
+                      MEDIUM         SU       015       $2,249.85               
+                                              000            $.00               
+                                              000            $.00               
+                                              000            $.00               
+
+                   TOTAL CANDY: MilkChocCream           $8,999.40               
+
+              TOTAL FOR VENDOR: INVALID-Q               $8,999.40               
+
+
+     VENDOR: TIGER TREATS                                                       
+
+      CANDY: C09                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     WineDrops        LARGE          SU       025       $2,824.75               
+                      MEDIUM         SU       020       $2,259.80               
+                      BAD-T          SU       030       $3,689.70               
+                      GIFT           SU       001         $108.99               
+                      BAD-I          SU       001         $108.99               
+
+                   TOTAL CANDY: WineDrops               $8,992.23               
+
+
+      CANDY: C10                                                                
+
+          NAME          SIZE        TYPE   IN STOCK    TOTAL COST               
+
+     DarkChoOrange    BAD-<          SU       030       $6,029.70               
+                      BAD-I          SU       025       $5,024.75               
+                      SMALL          SU       001         $600.99               
+                      GIFT           SU       003         $752.97               
+                      SAMPLE         SU       021       $4,115.79               
+
+                   TOTAL CANDY: DarkChoOrange          $16,524.20               
+
+              TOTAL FOR VENDOR: TIGER TREATS           $25,516.43               
+
+            TOTAL FOR WAREHOUSE: NY60                   $48,438.86              
+
+
+                   GRAND TOTAL:                       $208,612.47               
